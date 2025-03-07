@@ -19,3 +19,6 @@ Este es un sistema desarrollado en Java con interfaz gráfica en **Swing**, que 
    ```sh
    git clone https://github.com/tu_usuario/Proyecto_Final_Logica_II.git
    cd Proyecto_Final_Logica_II
+
+## Diagrame de Clases
+![Representación Grafica](https://github.com/user-attachments/assets/bfad82be-b2f9-4f8a-b541-0b2243d2bc52)
