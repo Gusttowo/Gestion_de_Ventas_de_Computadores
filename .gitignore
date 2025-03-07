@@ -1,0 +1,32 @@
+# Ignorar archivos de configuración de NetBeans
+nbproject/private/
+nbproject/build-impl.xml
+
+# Archivos compilados de Java
+*.class
+
+# Directorios de compilación
+build/
+bin/
+
+# Archivos de pruebas
+test/
+
+# Archivos temporales y de logs
+*.log
+*.tmp
+
+# Archivos de configuración específicos del IDE
+*.iml
+.idea/
+.vscode/
+
+# Archivos generados por NetBeans (archivos de diseño)
+*.form
+
+# Archivos de imagen innecesarios o duplicados
+logo (1).png
+
+# Archivos JAR o WAR generados
+*.jar
+*.war
